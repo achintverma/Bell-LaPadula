@@ -1,0 +1,7 @@
+Implement access control on a directory of files. Create two C functions, myread and mywrite, that
+call the read and write functions, respectively, but only after verifying that the user has permission
+to access the requested file in the requested manner. You can find the user id of the current process by
+calling getuid. Your access control mechanism will be separate from that provided by the operating
+system; your functions should search a file containing access control lists for each file in the directory.
+(You will create this file and determine its format.)
+Achint has done it.testing write accesstesting write accessPavitra BLP write testing pavitra
