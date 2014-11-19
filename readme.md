@@ -26,7 +26,7 @@ $ ./userid
 2. Edit the file permissions.txt to manually assign access rights. Fields are separated by #. Last two fields specify read and write access flags. 
 3. Compile myread.c and mywrite.c. Then you can run myread program like shown below. assignment.txt is the sample file. You can add more files and add access rules in permissions.txt to test the application. 
 ```sh
-$ ./myread assignment.txt
+$ ./BLPread assignment.txt
 ```
 
 ### San Francisco State University
